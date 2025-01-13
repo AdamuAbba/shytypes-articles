@@ -1,7 +1,9 @@
 ---
-id: My ideal woman
-aliases: []
-tags: []
+id: my-ideal-woman
+tags:
+  - personal
+author: shytypes
+date: 2025-01-01
 ---
 
 # My Woman
