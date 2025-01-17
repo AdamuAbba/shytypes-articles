@@ -1,0 +1,4 @@
+- definition and brief
+- anatomy and breakdown
+- decoding a sample wallet descriptor with rust
+- provide regtest `bitcoin.conf` config
