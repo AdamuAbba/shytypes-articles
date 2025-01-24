@@ -71,10 +71,6 @@ The apostrophes (`'`) indicate hardened derivation, which provides extra securit
 > [!Note] 
 > Don't forget the 0x00 byte prefix. This distinguishes it as a private key and makes the data the same length as when a public key is used instead.
 - key = 32-byte chain code
-
-
-
-  
 ## how to derive my wallet balance from UTXOS
 
 Let me explain how to derive your wallet balance from UTXOs (Unspent Transaction Outputs). The process involves:
