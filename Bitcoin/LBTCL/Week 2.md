@@ -117,11 +117,12 @@ bitcoin-cli getrawtransaction "<txid>" 1
 2. **Transaction gets stuck in the mempool**  
    - If the original transaction **has a low fee**, it may **not get picked up by miners** quickly.  
 
-3. **Create a new transaction with a higher fee**  
+1. **Create a new transaction with a higher fee**  
    - The sender **resends the same transaction** but with:  
      - **Same inputs**  
      - **Same (or updated) outputs**  
      - **Higher fee**  
+     - 
 
    📌 **Using `bumpfee` in `bitcoin-cli`**
    ```sh
