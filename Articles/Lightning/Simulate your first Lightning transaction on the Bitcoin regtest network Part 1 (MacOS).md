@@ -1,4 +1,5 @@
-### Objective
+# Objective
+
 
 The goal of this article is to help you
 
@@ -8,7 +9,7 @@ The goal of this article is to help you
 - mine some blocks to that address
 - configure two Lightening nodes
 
-### 📜 Introduction
+# 📜 Introduction
 
 This was me after I recently started my journey in Bitcoin development.
 
@@ -16,7 +17,7 @@ This was me after I recently started my journey in Bitcoin development.
 
 I felt so overwhelmed by the resources online mainly because I found out that certain information where either left out or now deprecated. so I was inspired to write my take on this topic because it confused me the most.
 
-### 📜 Requirements
+# 📜 Requirements
 
 To be able to follow along, you must have both [bitcoind](https://github.com/bitcoin/bitcoin) and [lnd](https://github.com/lightningnetwork/lnd) installed.
 
